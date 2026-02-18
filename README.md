@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Praditya 👋
 
-<!--
-**radityaapp/radityaapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | React & TypeScript | Laravel | Building AI-integrated Web Systems
 
-Here are some ideas to get you started:
+🎓 Computer Science Undergraduate at IPB University  
+💻 Passionate about scalable web architecture and AI-driven applications  
+🌍 Interested in Conversational UI & Generative AI systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+Frontend: React.js, Vite, Next.js, Typescript, Javascript  
+Backend: Laravel (PHP), Prisma, FastAPI, Node.js, Express.js, JWT  
+Database: MySQL, MariaDB, PostgreSQL, MongoDB
+Tools: Git, GitHub, Postman  
+
+## 📌 Featured Projects
+- Full-Stack Business System (Laravel + React TS)
+- Student Orientation Platform (5,000+ users)
+- REST API Development & Authentication Systems
+
+## 📫 Connect with Me
+LinkedIn: https://linkedin.com/in/praditya-putra-irawan-4b6bb3210
