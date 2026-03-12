@@ -16,14 +16,14 @@
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 Computer Science Undergraduate at **IPB University**.
-* 💡 Passionate about building **scalable webapp / web systems** and crafting clean, maintainable code.
-* 🚀 Focused on delivering production-ready applications from frontend to backend architecture.
+### About Me
+* Computer Science Undergraduate at **IPB University**.
+* Passionate about building **scalable webapp / web systems** and crafting clean, maintainable code.
+* Focused on delivering production-ready applications from frontend to backend architecture.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Tech Stack & Arsenal
 
 **Languages**
 <br>
