@@ -46,12 +46,12 @@ I am a Computer Science undergraduate at **IPB University** with a strong focus 
 ### 📈 Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radityaapp&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radityaapp&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radityaapp&theme=dracula&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radityaapp&theme=dracula&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=radityaapp&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radityaapp&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
