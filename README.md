@@ -46,7 +46,7 @@ I am a Computer Science undergraduate at **IPB University** with a strong focus 
 ### 📈 Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radityaapp&theme=dracula&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=radityaapp&theme=dracula&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <br>
